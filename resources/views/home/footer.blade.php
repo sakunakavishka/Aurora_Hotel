@@ -25,7 +25,7 @@
           </div>
        </div>
        
-    </div>
+    </div> 
  </footer>
  <!-- end footer -->
  <!-- Javascript files-->
