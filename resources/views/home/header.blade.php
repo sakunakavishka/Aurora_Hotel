@@ -6,7 +6,7 @@
                      <div class="full">
                         <div class="center-desk">
                            <div class="logo">
-                              <a href="{{url('/')}}"><img src="{{ asset('images/image.jpg') }}" alt="#" style="max-width: 100%; height: auto; max-height: 40px;" /></a></div>
+                              <a href="{{url('/')}}"><img src="{{ asset('images/aurora-logo-01.png') }}" alt="#" style="max-width: 150px;  max-height: 150px; padding-bottom:80px;" /></a></div>
                               
                         </div>
 

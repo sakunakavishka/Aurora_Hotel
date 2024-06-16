@@ -10,7 +10,7 @@
           </div>
           <div class="col-md-7">
              <div class="about_img">
-                <figure><img src="images/about.png" alt="#"/></figure>
+                <figure><img src="{{ asset('images/aurora-logo-01.png') }}"></figure>
              </div>
           </div>
        </div>
